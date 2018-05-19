@@ -1,0 +1,7 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "typescriptHero.imports.insertSemicolons": false,
+  "typescriptHero.imports.organizeOnSave": true,
+  "typescript.tsdk": "node_modules\\typescript\\lib"
+}
